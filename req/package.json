@@ -1,0 +1,22 @@
+{
+  "name": "some-api-thing",
+  "version": "1.0.0",
+  "description": "For making routed requests thru Proxy",
+  "main": "src/API.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpbberry/some-api-thing.git"
+  },
+  "author": "JPBBerry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpbberry/some-api-thing/issues"
+  },
+  "homepage": "https://github.com/jpbberry/some-api-thing#readme",
+  "dependencies": {
+    "node-fetch": "2.6.0"
+  }
+}

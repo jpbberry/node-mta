@@ -1,0 +1,24 @@
+{
+  "name": "node-mta",
+  "version": "1.0.0",
+  "description": "MTA API Wrapper",
+  "main": "src/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpbberry/node-mta.git"
+  },
+  "keywords": [
+    "mta",
+    "oba",
+    "nyc"
+  ],
+  "author": "JPBBerry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpbberry/node-mta/issues"
+  },
+  "homepage": "https://github.com/jpbberry/node-mta#readme"
+}
